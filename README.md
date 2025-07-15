@@ -10,7 +10,6 @@ This bot combines price action analysis with velocity-based indicator calculatio
 - Supports dynamic volume allocation or fixed sizing.
 
 ### 🧩 Technology Stack
-- **cAlgo (cTrader)**  
 - **C#**  
 - **Custom mathematical modeling** for cubic velocity  
 - **Risk management tools** using position control  
